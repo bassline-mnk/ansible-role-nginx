@@ -3,9 +3,9 @@ dependencies: []
 
 galaxy_info:
   role_name: nginx
-  author: tiny-pilot
+  author: bassline-mnk
   description: Nginx installation for Linux, FreeBSD and OpenBSD.
-  company: "TinyPilot, LLC"
+  company: "BasslineMnk, LLC"
   license: "license (BSD, MIT)"
   min_ansible_version: 2.4
   platforms:
